@@ -43,7 +43,7 @@ namespace module5dz3zd
         static void Generalisimus()
         {
             // Генерируем пользовательское исключение и передаем ему сообщение
-            throw new Exception1337("Произошла ошибка в вызываемом методе.");
+            throw new Exception1337("!Произошла ошибка в вызываемом методе.");
         }
     }
 }
